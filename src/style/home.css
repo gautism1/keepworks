@@ -1,0 +1,50 @@
+.home
+{
+   
+    margin-top:3%;
+}
+.header
+{
+    margin:0 auto;
+    margin-top:20px;
+}
+.workSpace
+{
+    padding:20px;
+    margin:0 auto;
+    max-width:380px;
+}
+.displayOutput
+{
+    border:1px solid grey;
+    height: 30px;;
+}
+.button
+{
+    height:20px;
+    width:72.5px;
+    padding:10px; 
+     border:1px solid;
+    cursor: pointer;
+}
+.keypad
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.scientific
+{
+    width:27.   6%;
+   
+    height:auto;
+}
+.changemode
+{
+    cursor: pointer;
+}
+.changemode >span{
+    margin-left: 20px;
+    margin-right:20px;
+    padding:10px;
+    border:1px solid ;   
+}
