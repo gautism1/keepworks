@@ -12,8 +12,8 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Note:
- 1.Created Simple Calculator using react-app.
- 2.Created components and style folder.
- 3.Dark Mode available.
- 4.Switch to Scientific added.
+ 1.Created Simple Calculator using react-app.\
+ 2.Created components and style folder.\
+ 3.Dark Mode available.\
+ 4.Switch to Scientific added.\
  5.No BODMAS follow.
