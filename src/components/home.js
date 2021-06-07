@@ -87,7 +87,7 @@ function Home() {
     try {
       if (output === "")  return;
       else {
-        const result = Math.sqrt(calculate(output));
+        const result = Math.sqrt(eval(output));
         setOutput(result);
       }
     } catch (e) {
